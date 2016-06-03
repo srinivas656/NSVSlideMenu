@@ -1,7 +1,7 @@
 # NSVSlideMenu
 NSVSlideMenu is a Slide Menu with beautiful animation , Configure with Profile Presentation
 
-#Integration In your Project
+**Integration In your Project**
 
 Just Drag & Drop NSVSSlideMenu into your project 
 
@@ -27,6 +27,7 @@ Just Drag & Drop NSVSSlideMenu into your project
 **MenuPresetation Method**
 
 -(void)showMenu ;
+
 -(void)closeMenu ;
 
 
